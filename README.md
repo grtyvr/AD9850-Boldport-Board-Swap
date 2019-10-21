@@ -1,4 +1,4 @@
-AD9850 Signal Generator Boldport Board Swap Version
+### AD9850 Signal Generator Boldport Board Swap Version
 
 This is the KiCAD files and Gerber files for the Boldport Board Swap.  It is a driver board for an AD9850 module. It uses an  ATMega328p as the controll chip and includes a display as well as two rotary encoders to support a UI.
 
